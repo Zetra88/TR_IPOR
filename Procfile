@@ -1,1 +1,1 @@
-eyzalts: node bot.js
+eyzalts: node TR_IPOR.js
