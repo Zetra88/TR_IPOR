@@ -1,1 +1,1 @@
-worker: node TR_IPOR.js
+worker: node bot.js
